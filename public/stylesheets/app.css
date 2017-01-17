@@ -1,0 +1,40 @@
+header  {
+    background-color: #244751;
+    color: #E8FDFF;
+}
+
+body  {
+    background-color: whitesmoke;
+}
+
+main  {
+    background-color: white;
+    padding: 16px;
+}
+
+.post  {
+    margin-bottom: 48px;
+    padding: 20px;
+}
+
+.post .user-info img {
+    border-radius: 50%;
+}
+
+.user-info, .actions, .comments{
+    font-family: 'Arsenal', sans-serif;
+}
+
+.actions:hover, .user-info:hover {
+    color: lightsalmon;
+}
+
+.photo img {
+    border-radius: 20%;
+}
+
+
+
+
+
+
